@@ -32,6 +32,6 @@ cern_ohl_v_1_2_howto.pdf
 FABRICATION NOTES
 
 PCB
--The PCB is a 0.8mm thick two layer board.
+-The PCB is a 0.8mm thick two layer board, with castellated holes on all sides.
 
 -------------------------------------------------------
