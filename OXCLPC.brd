@@ -3236,7 +3236,7 @@ by exp-lbrs.ulp</description>
 <circle x="0.0168" y="-0.29813125" radius="4" width="0.127" layer="25"/>
 <wire x1="2.325409375" y1="2.523259375" x2="2.325409375" y2="-3.058190625" width="0.127" layer="25" curve="260.000089"/>
 <circle x="0.0168" y="-0.29813125" radius="3.23203125" width="0.127" layer="25"/>
-<text x="-2.407290625" y="-2.67274375" size="5.08" layer="21">X</text>
+<text x="-0.0151375" y="-0.17825625" size="5.08" layer="21" align="center">X</text>
 </package>
 </packages>
 </library>
@@ -3432,7 +3432,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="VALUE" x="5.785" y="-8.792" size="0.0254" layer="27"/>
 </element>
 <element name="U$1" library="adapter8784" package="TEST" value="" x="4.771" y="-22.297" smashed="yes" rot="MR0"/>
-<element name="U$2" library="OXC_Library" package="OXC_NO_TM" value="" x="1.397" y="-18.288" smashed="yes"/>
+<element name="U$3" library="OXC_Library" package="OXC_NO_TM" value="" x="1.397" y="-18.542" smashed="yes"/>
 </elements>
 <signals>
 <signal name="LCLK">
@@ -3542,7 +3542,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="-1.341" y1="-18.675" x2="5.788" y2="-11.546" width="0.1524" layer="1"/>
 </signal>
 <signal name="N$1">
-<via x="4.625" y="-7.71" extent="1-16" drill="1" shape="square"/>
+<via x="4.625" y="-7.964" extent="1-16" drill="1.3" shape="square"/>
 </signal>
 </signals>
 <mfgpreviewcolors>
