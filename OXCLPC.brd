@@ -3236,7 +3236,7 @@ by exp-lbrs.ulp</description>
 <circle x="0.0168" y="-0.29813125" radius="4" width="0.127" layer="25"/>
 <wire x1="2.325409375" y1="2.523259375" x2="2.325409375" y2="-3.058190625" width="0.127" layer="25" curve="260.000089"/>
 <circle x="0.0168" y="-0.29813125" radius="3.23203125" width="0.127" layer="25"/>
-<text x="-0.0151375" y="-0.17825625" size="5.08" layer="21" align="center">X</text>
+<text x="-2.407290625" y="-2.67274375" size="5.08" layer="21">X</text>
 </package>
 </packages>
 </library>
@@ -3432,7 +3432,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="VALUE" x="5.785" y="-8.792" size="0.0254" layer="27"/>
 </element>
 <element name="U$1" library="adapter8784" package="TEST" value="" x="4.771" y="-22.297" smashed="yes" rot="MR0"/>
-<element name="U$2" library="OXC_Library" package="OXC_NO_TM" value="" x="1.27" y="-18.542" smashed="yes"/>
+<element name="U$2" library="OXC_Library" package="OXC_NO_TM" value="" x="1.397" y="-18.288" smashed="yes"/>
 </elements>
 <signals>
 <signal name="LCLK">
@@ -3452,7 +3452,6 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <signal name="LAD0">
 <contactref element="SV1" pad="11"/>
 <via x="-14.575" y="-20.575" extent="1-16" drill="1.3" shape="square" locked="yes"/>
-<wire x1="14.59" y1="-13.295" x2="14.575" y2="-13.295" width="0.1524" layer="16"/>
 <wire x1="-14.575" y1="-20.575" x2="-16.256" y2="-18.894" width="0.1524" layer="16" curve="-90"/>
 <wire x1="-16.256" y1="-18.894" x2="-16.256" y2="-16.764" width="0.1524" layer="16"/>
 <wire x1="-16.256" y1="-16.764" x2="-16.002" y2="-16.51" width="0.1524" layer="16" curve="-90"/>
@@ -3543,7 +3542,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <wire x1="-1.341" y1="-18.675" x2="5.788" y2="-11.546" width="0.1524" layer="1"/>
 </signal>
 <signal name="N$1">
-<via x="4.625" y="-7.075" extent="1-16" drill="1" shape="square"/>
+<via x="4.625" y="-7.71" extent="1-16" drill="1" shape="square"/>
 </signal>
 </signals>
 <mfgpreviewcolors>
@@ -3582,7 +3581,6 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <approved hash="4,16,cecf03af623a56a4"/>
 <approved hash="4,16,c69484e7ab74be68"/>
 <approved hash="4,16,692d91014dc16a5c"/>
-<approved hash="4,16,11c951abcf4048a3"/>
 <approved hash="4,16,c1a1a5cc7b623327"/>
 <approved hash="4,16,1618ab6ab9cbfe7e"/>
 <approved hash="4,1,7a2e44cb6b9f29f2"/>
@@ -3620,7 +3618,26 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <approved hash="4,1,f32274a1527717e9"/>
 <approved hash="4,1,dbdf575c6eab9ea0"/>
 <approved hash="4,1,c9f7a82ae82189fc"/>
-<approved hash="19,1,cd7e324a64ea693d"/>
+<approved hash="19,1,0294726be4ca6612"/>
+<approved hash="4,1,3119368f60988d10"/>
+<approved hash="4,1,f843089ecc5d4338"/>
+<approved hash="4,1,c14d68731818f0ef"/>
+<approved hash="4,1,a8ec64e44d4dfeaa"/>
+<approved hash="4,1,5439ffa238629218"/>
+<approved hash="4,1,f5c80867ee2414e8"/>
+<approved hash="4,1,5c2e8926baa417d2"/>
+<approved hash="4,1,07cd8ee2e7a2704f"/>
+<approved hash="4,16,3119368f60988d10"/>
+<approved hash="4,16,f843089ecc5d4338"/>
+<approved hash="4,16,5439ffa238629218"/>
+<approved hash="4,16,4baf348012f103f1"/>
+<approved hash="4,16,b2f981d46a3343ed"/>
+<approved hash="22,1,ee496e482e89ae88"/>
+<approved hash="22,1,ee496e482e89ae88"/>
+<approved hash="22,1,ee496e482e89ae88"/>
+<approved hash="22,16,ee496e482e89ae88"/>
+<approved hash="22,16,ee496e482e89ae88"/>
+<approved hash="22,16,ee496e482e89ae88"/>
 </errors>
 </board>
 </drawing>
