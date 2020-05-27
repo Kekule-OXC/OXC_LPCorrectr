@@ -19,7 +19,9 @@ README.TXT
 	
 CHANGES.TXT
 -Describes changes made by the original author or anyone else who alters these files.
-	
+
+OXCLPC_gerbers.zip  
+-manufactring files for the LPC correctr board v3
 
 cern_ohl_v_1_2.pdf
 -CERN OHL v.1.2 License.
