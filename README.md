@@ -27,6 +27,12 @@ OXCLPC_V4_gerbers.zip
 OXCLPC_gerbers.zip
 -manufacturing files for the LPC correctr board v3
 
+LPC_install.pdf
+-install diagram for v3
+
+LPC v4 install.pdf
+-install diagram for v4
+
 cern_ohl_v_1_2.pdf
 -CERN OHL v.1.2 License.
 	
