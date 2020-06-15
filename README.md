@@ -1,4 +1,4 @@
-# OXC_LPCorrectr_v3
+# OXC_LPCorrectr
 LPC rebuild baord for the OG XBOX 1.6 motherboard 
 
 -------------------------------------------------------
@@ -22,6 +22,7 @@ CHANGES.TXT
 
 OXCLPC_V4_gerbers.zip  
 -manufactring files for the LPC correctr board v4
+- added LFrame wire to ease OpenXenium install, changed d0 jumper pad
 
 OXCLPC_gerbers.zip
 -manufacturing files for the LPC correctr board v3
